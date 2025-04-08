@@ -1,0 +1,15 @@
+《算法训练营》配套源码、PPT、视频，提供随时答疑服务。
+QQ答疑群：281607840
+《算法训练营》刷题题单：
+https://vjudge.net/article/2652
+https://vjudge.net/article/2642
+vjudge汇集了30多个OJ的题目，只需要注册vjudge账号即可刷这些OJ的题目，非常方便。
+但是vjudge有时不稳定，需要使用VPN或者等待网站正常。
+如果出现打不开情况，也可以直接到以下网站刷题。
+
+p开头的题目为洛谷题目：  https://www.luogu.com.cn/
+poj开头的题目为北大题目：http://poj.org
+hdu开头的题目为杭电题目：http://acm.hdu.edu.cn/
+
+配套视频：http://m.study.163.com/provider/480000002227476/index.htm?share=2&shareId=480000002227476
+B站账号：算法训练营
